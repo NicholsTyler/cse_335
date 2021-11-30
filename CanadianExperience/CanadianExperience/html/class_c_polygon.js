@@ -1,0 +1,25 @@
+var class_c_polygon =
+[
+    [ "CPolygon", "class_c_polygon.html#a23a008a0e67f83af21f2de0de73e12e4", null ],
+    [ "~CPolygon", "class_c_polygon.html#a2e8a08cf38a25f83073b8243bc700ae1", null ],
+    [ "AddPoint", "class_c_polygon.html#a6b5a66581821a4eccaeddbe9b91523a5", null ],
+    [ "AddPoint", "class_c_polygon.html#a0eefb11929dcced5ad3012c4ebe287ba", null ],
+    [ "AverageLuminance", "class_c_polygon.html#a2cc4c0c2f40433ccfce4eb315c5d4dc2", null ],
+    [ "CenteredSquare", "class_c_polygon.html#aed4c89e2c0b15f8d25b0749d647be8e8", null ],
+    [ "ConfigureTextureBrush", "class_c_polygon.html#a7463a3398b36df24db50050ea1a5fc3a", null ],
+    [ "DrawPolygon", "class_c_polygon.html#a4ccdf797c0557f46e9622c5a0ea1936b", null ],
+    [ "GetImageHeight", "class_c_polygon.html#a7da5a20a06fbca178d074a643d9c8d22", null ],
+    [ "GetImageWidth", "class_c_polygon.html#a5687f4da72203239ac76159872a16a55", null ],
+    [ "GetRotation", "class_c_polygon.html#a4ecb49ecd0dbaa116bd265845d38c4c3", null ],
+    [ "Rectangle", "class_c_polygon.html#a983466102ec2e47dfeb5148428d00566", null ],
+    [ "Rectangle", "class_c_polygon.html#af6538de6e9c10f6268dfce9a05745117", null ],
+    [ "SetColor", "class_c_polygon.html#a6ea29870410df59c618e928434394331", null ],
+    [ "SetImage", "class_c_polygon.html#aa70028bef318fcf8d0698693b24dca51", null ],
+    [ "SetRotation", "class_c_polygon.html#a34d961ef1bc6a2c7add78ff857edccd4", null ],
+    [ "mBrush", "class_c_polygon.html#ac316f77c5c5a4141927d3dcb41f1dcbb", null ],
+    [ "mHasDrawn", "class_c_polygon.html#aa3bdff2e2a71ea4ebf112c31cef490de", null ],
+    [ "mPoints", "class_c_polygon.html#a615c5b5fda89cc2c756a1e5128467ca1", null ],
+    [ "mRotation", "class_c_polygon.html#a3a1bbe85e4268c4e38ba690103a7bf92", null ],
+    [ "mTexture", "class_c_polygon.html#a33423ea69348c4a481e97073423e3e37", null ],
+    [ "mTextureBrush", "class_c_polygon.html#a160f824a22e71896fb65b11f8c7262d8", null ]
+];

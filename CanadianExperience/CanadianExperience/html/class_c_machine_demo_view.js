@@ -1,0 +1,25 @@
+var class_c_machine_demo_view =
+[
+    [ "CMachineDemoView", "class_c_machine_demo_view.html#ad89557f294adf3adb0fddce1da4747ea", null ],
+    [ "~CMachineDemoView", "class_c_machine_demo_view.html#ac87276ccbf177841bb9fe9977be5bbed", null ],
+    [ "Create", "class_c_machine_demo_view.html#acf1927e336b94e114c29422a0461e83d", null ],
+    [ "Draw", "class_c_machine_demo_view.html#a5963216304d9797411e40814dab874b4", null ],
+    [ "GetEncoderClsid", "class_c_machine_demo_view.html#ae6319e0db18a736bd4ad3a43a6f6eeb4", null ],
+    [ "GetMachine", "class_c_machine_demo_view.html#ada8db1f351b0836043de083a45f79a88", null ],
+    [ "OnEraseBkgnd", "class_c_machine_demo_view.html#a4a58d41edbd44e4fabd32245df63b87e", null ],
+    [ "OnHScroll", "class_c_machine_demo_view.html#addafaa1c63e8896b470a5dcf73c7b6d0", null ],
+    [ "OnPaint", "class_c_machine_demo_view.html#ab892ebf3b77cb496a2be9ce3c0915c03", null ],
+    [ "OnVScroll", "class_c_machine_demo_view.html#afd6680f1f7372bcc2b9c08ed4f209346", null ],
+    [ "RegisterWindowClass", "class_c_machine_demo_view.html#aa4d5fcd86ec1298a164a780e34729931", null ],
+    [ "SetDie", "class_c_machine_demo_view.html#a71e18846545a2456497af0fb18eaaf3d", null ],
+    [ "SetFrame", "class_c_machine_demo_view.html#aececb6359d0ad52b5a80fa9042f35e34", null ],
+    [ "SetLabel", "class_c_machine_demo_view.html#a1a2e9118cf1499af2c6ca10db757d4c4", null ],
+    [ "SetMachineNumber", "class_c_machine_demo_view.html#a82f279b41465444546f3ef854d8e5d35", null ],
+    [ "SetSaveFile", "class_c_machine_demo_view.html#aee595afd4158d01fe1fc1ec60084d677", null ],
+    [ "SetScale", "class_c_machine_demo_view.html#ab67d6941051f287f9b0b78b7000f4db0", null ],
+    [ "mDie", "class_c_machine_demo_view.html#a37cb3218ea891ea0925ca68af0cc633d", null ],
+    [ "mLabel", "class_c_machine_demo_view.html#a74ca8fa54596a13a16078823c2c6b8ca", null ],
+    [ "mMachine", "class_c_machine_demo_view.html#ae0bd2134295908add22b630414fff403", null ],
+    [ "mSaveFile", "class_c_machine_demo_view.html#ac86d7f3c8f5d12f5c0088c56e36d3852", null ],
+    [ "mScale", "class_c_machine_demo_view.html#aea3e4485ae343ed101045f079b0fd9c9", null ]
+];
