@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['gardenimage_52',['GardenImage',['../_tile_garden_8cpp.html#adc8c14fccf24015314ecb47e7458acfc',1,'TileGarden.cpp']]],
+  ['gardenovergrownimage1_53',['GardenOvergrownImage1',['../_tile_garden_8cpp.html#ac8cd2988bb23eac9ffe02ceefc4dc8bd',1,'TileGarden.cpp']]],
+  ['gardenovergrownimage2_54',['GardenOvergrownImage2',['../_tile_garden_8cpp.html#a257df286e4602bcdfdfb25fd3c7a9ccd',1,'TileGarden.cpp']]],
+  ['gardenovergrownimage3_55',['GardenOvergrownImage3',['../_tile_garden_8cpp.html#af89014d49b4e98b22b5b7e5768a8dff2',1,'TileGarden.cpp']]],
+  ['gardenovergrownimage4_56',['GardenOvergrownImage4',['../_tile_garden_8cpp.html#abafd12c31173d00616d114a447da3b91',1,'TileGarden.cpp']]],
+  ['gardenovergrowntime1_57',['GardenOvergrownTime1',['../_tile_garden_8cpp.html#ae985e6db974ce538e5e03ce0e74e0e73',1,'TileGarden.cpp']]],
+  ['gardenovergrowntime2_58',['GardenOvergrownTime2',['../_tile_garden_8cpp.html#a3478b6cef79a68de81af38ae7acade5e',1,'TileGarden.cpp']]],
+  ['gardenovergrowntime3_59',['GardenOvergrownTime3',['../_tile_garden_8cpp.html#ab3c0241d84f453a5a0b1f73d36d418ad',1,'TileGarden.cpp']]],
+  ['gardenovergrowntime4_60',['GardenOvergrownTime4',['../_tile_garden_8cpp.html#ab8395e41449ff5243e231c8019904c8b',1,'TileGarden.cpp']]],
+  ['gdiplusstartupinput_61',['gdiplusStartupInput',['../class_c_city_app.html#a4cd00f54e28d863d94b3ed2068d167f3',1,'CCityApp']]],
+  ['gdiplustoken_62',['gdiplusToken',['../class_c_city_app.html#ab8cee3bdb3bd9a1545903d67391f2996',1,'CCityApp']]],
+  ['generatecityreport_63',['GenerateCityReport',['../class_c_city.html#aeb3367a6a575d9e2afdcc7178ad1aa31',1,'CCity']]],
+  ['getadjacent_64',['GetAdjacent',['../class_c_city.html#a414a819e826fb97177e210218b9dfb66',1,'CCity::GetAdjacent(std::shared_ptr&lt; CTile &gt; tile, int dx, int dy)'],['../class_c_city.html#a138aaede84036e26d8a1d922a873a343',1,'CCity::GetAdjacent(CTile *tile, int dx, int dy)'],['../class_c_tile.html#a2e7ddacec1d5dbaaab10a01730e67b07',1,'CTile::GetAdjacent(int dx, int dy)']]],
+  ['getcity_65',['GetCity',['../class_c_tile.html#ae78877e37344b77141c06dd1e2a8617e',1,'CTile']]],
+  ['getfile_66',['GetFile',['../class_c_tile.html#acd476463b2629635b0267dc2727b22d7',1,'CTile']]],
+  ['getnumbuildings_67',['GetNumBuildings',['../class_c_building_counter.html#a2692fc40e3c8ce6e75892089efda41ff',1,'CBuildingCounter']]],
+  ['getnumrocketpads_68',['GetNumRocketPads',['../class_c_rocket_pad_visitor.html#a744d34e8b919e861f818d68b54e0632b',1,'CRocketPadVisitor']]],
+  ['getrocket_69',['GetRocket',['../class_c_tile_rocket_pad.html#a3da7f7625f6233c1714ee62d0c4dbbea',1,'CTileRocketPad']]],
+  ['gettile_70',['GetTile',['../class_c_click.html#a8a2eb02993c54b30c8a8c2131450a8bc',1,'CClick']]],
+  ['gettime_71',['GetTime',['../class_c_click.html#a1c2ebb1a13b55f02b0b9309ce0165639',1,'CClick']]],
+  ['getx_72',['GetX',['../class_c_tile.html#a39b8082dc1dfb0c3bc088fde10a3b862',1,'CTile']]],
+  ['gety_73',['GetY',['../class_c_tile.html#a487deb288b38d071a070593ce38a4d12',1,'CTile']]],
+  ['giverocket_74',['GiveRocket',['../class_c_rocket_lander.html#ab83a6ca3936057f4fa9d42e72cfeef51',1,'CRocketLander']]],
+  ['gridspacing_75',['GridSpacing',['../class_c_city.html#a08cb723941e71de2c102d8ec50dbff8e',1,'CCity::GridSpacing()'],['../class_c_tile.html#a13648f369c2931a2bf4c7b3a2a22f782',1,'CTile::GridSpacing()']]]
+];
